@@ -1,3 +1,5 @@
+#PROJETO WPC
+
 Ex 1 - Nesse documento, está descrevendo como será feito nosso projeto. OBS: Documento a ser atualizado
 
 Ex 2 - Nesse documento, está sendo descrito o mapa de empatia do funcionário e do gerente.
